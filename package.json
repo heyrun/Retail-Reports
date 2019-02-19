@@ -1,0 +1,23 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "package file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "supertest": "^3.4.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nodejs/node.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nodejs/node/issues"
+  },
+  "homepage": "https://github.com/nodejs/node#readme"
+}
